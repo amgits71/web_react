@@ -5,6 +5,8 @@ import WhatIsChatGpt from "../components/WhatIsChatGpt";
 import FutureHere from "../components/FutureHere";
 import Expectations from "../components/Expectations";
 import CTA from "../components/CTA";
+import Blog from "../components/Blog";
+import Footer from "../components/Footer";
 
 const Home = () => {
   return (
@@ -29,6 +31,12 @@ const Home = () => {
       </section>
       <section className="section CTA">
         <CTA />
+      </section>
+      <section className="section blog_section">
+        <Blog />
+      </section>
+      <section class="section footer_section">
+        <Footer />
       </section>
     </>
   );

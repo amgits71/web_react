@@ -2,12 +2,11 @@ const blogArticleData = [
     {
         className: "container_blog_part_left",
         img: {
-            src: "./assets/img/articles/article_1.png",
-            alt: "article photo",
+            alt: "1",
         },
-        date: "Сент 26, 2021", 
-        title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
-        link: {
+        description: {
+            date: "Сент 26, 2021", 
+            title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
             href: "#",
             text: "Читать полную статью",
         },
@@ -15,12 +14,11 @@ const blogArticleData = [
     {
         className: "container_blog_img_text",
         img: {
-            src: "./assets/img/articles/article_2.png",
-            alt: "article photo",
+            alt: "2",
         },
-        date: "Сент 26, 2021", 
-        title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
-        link: {
+        description: {
+            date: "Сент 26, 2021", 
+            title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
             href: "#",
             text: "Читать полную статью",
         },
@@ -28,12 +26,11 @@ const blogArticleData = [
     {
         className: "container_blog_img_text",
         img: {
-            src: "./assets/img/articles/article_3.png",
-            alt: "article photo",
+            alt: "3",
         },
-        date: "Сент 26, 2021", 
-        title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
-        link: {
+        description: {
+            date: "Сент 26, 2021", 
+            title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
             href: "#",
             text: "Читать полную статью",
         },
@@ -41,12 +38,11 @@ const blogArticleData = [
     {
         className: "container_blog_img_text",
         img: {
-            src: "./assets/img/articles/article_4.png",
-            alt: "article photo",
+            alt: "4",
         },
-        date: "Сент 26, 2021", 
-        title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
-        link: {
+        description: {
+            date: "Сент 26, 2021", 
+            title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
             href: "#",
             text: "Читать полную статью",
         },
@@ -54,12 +50,11 @@ const blogArticleData = [
     {
         className: "container_blog_img_text",
         img: {
-            src: "./assets/img/articles/article_5.png",
-            alt: "article photo",
+            alt: "5",
         },
-        date: "Сент 26, 2021", 
-        title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
-        link: {
+        description: {
+            date: "Сент 26, 2021", 
+            title: "GPT-3 и Openai – это будущее. Давайте разберемся, как это?", 
             href: "#",
             text: "Читать полную статью",
         },

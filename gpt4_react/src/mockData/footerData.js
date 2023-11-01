@@ -1,5 +1,5 @@
 export const footerTopData = {
-    header: "Хотите Шагнуть в Будущее Раньше Других?",
+    title: "Хотите Шагнуть в Будущее Раньше Других?",
     button: {
         href: "#",
         text: "Запросить ранний доступ",
@@ -8,7 +8,7 @@ export const footerTopData = {
 
 export const footerLogoData = {
     href: "#",
-    src: "./assets/img/logo.svg",
+    alt: "logo",
     text: "ул. Профессора Поздеева, 13, к.Г, Пермь, Пермский край, 614013<br />Все права защищены",
 };
 
@@ -42,6 +42,6 @@ const footerMenuData = [
     },
 ];
 
-export const expectationsData = {footerTopData, footerLogoData, footerMenuData, copyrightData};
+export const footerData = {footerTopData, footerLogoData, footerMenuData, copyrightData};
 
-export default expectationsData;
+export default footerData;
